@@ -1,4 +1,4 @@
-# Merhaba, ben Bekir Utku Uyanık 👋
+      # Merhaba, ben Bekir Utku Uyanık 👋
 
 Web ve oyun geliştirme üzerine çalışan bir yazılım geliştiricisiyim. Fikirleri
 çalışan ürünlere dönüştürmeyi, temiz ve sürdürülebilir kod yazmayı seviyorum.
