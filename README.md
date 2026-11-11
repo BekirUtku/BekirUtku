@@ -21,11 +21,10 @@ REST API'ye, arayüzden kurulum paketine kadar bir projeyi uçtan uca üstlenebi
 ## Öne Çıkan Projeler
 
 <p>
-  <a href="https://github.com/BekirUtku/projeDemirbas"><img src="assets/card-demirbas.svg" alt="Demirbaş Takip Sistemi" width="49%"></a>
   <a href="https://github.com/BekirUtku/kalkan"><img src="assets/card-kalkan.svg" alt="Kalkan Parola Kasası" width="49%"></a>
+  <a href="https://github.com/BekirUtku/Muzik-Websitesi-Ve-Uygulamasi"><img src="assets/card-aube.svg" alt="AUBE Music" width="49%"></a>
 </p>
 <p>
-  <a href="https://github.com/BekirUtku/Muzik-Websitesi-Ve-Uygulamasi"><img src="assets/card-aube.svg" alt="AUBE Music" width="49%"></a>
   <a href="https://github.com/BekirUtku/Yapay-Zeka-Destekli-Oyunum"><img src="assets/card-oyun.svg" alt="Kayıp Şövalye" width="49%"></a>
 </p>
 
