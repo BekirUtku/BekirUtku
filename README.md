@@ -38,4 +38,12 @@ REST API'ye, arayüzden kurulum paketine kadar bir projeyi uçtan uca üstlenebi
 
 ---
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BekirUtku/BekirUtku/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BekirUtku/BekirUtku/output/github-contribution-grid-snake.svg">
+    <img alt="Katkı grafiği yılan animasyonu" src="https://raw.githubusercontent.com/BekirUtku/BekirUtku/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
 <p align="center">İş birliği ve fırsatlar için <a href="https://www.linkedin.com/in/bekirutkuuyanik/">LinkedIn</a> veya <a href="mailto:b.utku.uyanik@gmail.com">e-posta</a> üzerinden ulaşabilirsiniz.</p>
