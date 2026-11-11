@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0a1020"/><stop offset="1" stop-color="#121a33"/>
+  </linearGradient>
+  <radialGradient id="g1" cx="0.12" cy="0.1" r="0.6">
+    <stop offset="0" stop-color="#3b82f6" stop-opacity="0.35"/><stop offset="1" stop-color="#3b82f6" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="g2" cx="0.9" cy="1" r="0.55">
+    <stop offset="0" stop-color="#8b5cf6" stop-opacity="0.30"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+  </radialGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.04"/>
+  </pattern>
+  <linearGradient id="accent" x1="0" x2="1">
+    <stop offset="0" stop-color="#60a5fa"/><stop offset="1" stop-color="#a78bfa"/>
+  </linearGradient>
+  <clipPath id="r"><rect width="1280" height="340" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#r)">
+  <rect width="1280" height="340" fill="url(#bg)"/>
+  <rect width="1280" height="340" fill="url(#grid)"/>
+  <rect width="1280" height="340" fill="url(#g1)"/>
+  <rect width="1280" height="340" fill="url(#g2)"/>
+</g>
+<rect x="0.5" y="0.5" width="1279" height="339" rx="18" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+
+<g font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif">
+  <text x="72" y="104" font-family="'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="18" fill="#60a5fa" letter-spacing="1">&lt;merhaba /&gt;</text>
+  <text x="70" y="168" font-size="58" font-weight="700" fill="#f8fafc">Bekir Utku Uyanık</text>
+  <rect x="72" y="190" width="72" height="4" rx="2" fill="url(#accent)"/>
+  <text x="72" y="236" font-size="26" font-weight="600" fill="#cbd5e1">Full-Stack Yazılım Geliştirici</text>
+  <text x="72" y="274" font-size="19" fill="#8b9bb4">.NET  ·  React  ·  TypeScript  ·  PHP  ·  Unity</text>
+</g>
+
+<g transform="translate(790 62)">
+  <rect width="420" height="216" rx="12" fill="#0b1222" stroke="#ffffff" stroke-opacity="0.10"/>
+  <path d="M0 12a12 12 0 0 1 12-12h396a12 12 0 0 1 12 12v24H0z" fill="#ffffff" fill-opacity="0.04"/>
+  <circle cx="22" cy="18" r="5.5" fill="#ff5f57"/><circle cx="40" cy="18" r="5.5" fill="#febc2e"/><circle cx="58" cy="18" r="5.5" fill="#28c840"/>
+  <text x="210" y="23" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#64748b">developer.ts</text>
+  <g font-family="'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="15.5">
+    <text x="22" y="68"><tspan fill="#c084fc">const</tspan><tspan fill="#e2e8f0"> developer = {</tspan></text>
+    <text x="44" y="96"><tspan fill="#7dd3fc">name</tspan><tspan fill="#e2e8f0">: </tspan><tspan fill="#86efac">"Bekir Utku"</tspan><tspan fill="#e2e8f0">,</tspan></text>
+    <text x="44" y="124"><tspan fill="#7dd3fc">stack</tspan><tspan fill="#e2e8f0">: [</tspan><tspan fill="#86efac">".NET"</tspan><tspan fill="#e2e8f0">, </tspan><tspan fill="#86efac">"React"</tspan><tspan fill="#e2e8f0">, </tspan><tspan fill="#86efac">"SQL"</tspan><tspan fill="#e2e8f0">],</tspan></text>
+    <text x="44" y="152"><tspan fill="#7dd3fc">focus</tspan><tspan fill="#e2e8f0">: </tspan><tspan fill="#86efac">"kurumsal çözümler"</tspan><tspan fill="#e2e8f0">,</tspan></text>
+    <text x="44" y="180"><tspan fill="#7dd3fc">openToWork</tspan><tspan fill="#e2e8f0">: </tspan><tspan fill="#fbbf24">true</tspan></text>
+    <text x="22" y="204" fill="#e2e8f0">};</text>
+  </g>
+</g>
+</svg>
